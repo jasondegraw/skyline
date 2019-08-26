@@ -1,4 +1,5 @@
 // Copyright (c) 2019, Alliance for Sustainable Energy, LLC
+// Copyright (c) 2019, Jason W. DeGraw
 // All rights reserved.
 //
 // Redistribution and use in source and binary forms, with or without
